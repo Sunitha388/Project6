@@ -1,0 +1,26 @@
+Date,Time,Amount,Receiver,Description,Category
+01/04/2025,10:15,-350.0,Zomato,Food Delivery,Food
+03/04/2025,15:45,-1200.0,Flipkart,Shopping,Shopping
+05/04/2025,12:10,15000.0,XYZ Pvt Ltd,Salary Credit,Others
+10/04/2025,18:30,-500.0,Amazon,Shopping,Shopping
+15/04/2025,09:50,-75.0,Swiggy,Snacks,Food
+22/04/2025,19:00,-2000.0,BookMyShow,Movie Tickets,Entertainment
+28/04/2025,11:20,-850.0,Uber,Cab Ride,Transport
+02/05/2025,09:00,5000.0,ABC Pvt Ltd,Freelance Payment,Others
+06/05/2025,20:15,-450.0,Reliance Trends,Clothing,Shopping
+11/05/2025,14:40,-900.0,Amazon,Electronics,Shopping
+17/05/2025,16:25,-350.0,Domino’s,Pizza,Food
+20/05/2025,13:35,-200.0,Starbucks,Coffee,Food
+25/05/2025,10:45,-1200.0,Tata Sky,Recharge,Recharge
+31/05/2025,08:30,-275.0,Zomato,Breakfast,Food
+03/06/2025,11:00,8000.0,DEF Solutions,Project Payment,Others
+07/06/2025,19:55,-500.0,Big Bazaar,Grocery,Shopping
+12/06/2025,15:10,-3000.0,Flipkart,Electronics,Shopping
+18/06/2025,10:25,-700.0,Uber Eats,Food Delivery,Food
+24/06/2025,21:10,-1500.0,Myntra,Clothing,Shopping
+30/06/2025,17:45,-250.0,BookMyShow,Movie Tickets,Entertainment
+07/07/2025,09:55,-500.0,Big Bazaar,Grocery,Shopping
+12/07/2025,10:10,-3000.0,Flipkart,Electronics,Shopping
+18/07/2025,05:25,-700.0,Uber Eats,Food Delivery,Food
+24/07/2025,11:10,-1500.0,Myntra,Clothing,Shopping
+30/07/2025,07:45,-250.0,BookMyShow,Movie Tickets,Entertainment
