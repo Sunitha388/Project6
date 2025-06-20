@@ -74,7 +74,7 @@ if uploaded_file is not None:
             with st.spinner("Connecting to LLM for financial guidance..."):
                 client = openai.OpenAI(
                  
-                    api_key="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",  # Your API Key here
+                    api_key="sk-or-v1-api_key=\"your api key update ",  # Your API Key here
                     base_url="https://openrouter.ai/api/v1"
                 )
                 try:
